@@ -6,7 +6,7 @@ This template uses the [metropolis](https://github.com/andreasKroepelin/polylux/
 
 ## Usage
 
-1. Rename the `slides-template.typ` file to your desired name.
+1. Rename the `main.typ` file to your desired name.
 2. Edit the file by adding your content.
 3. Push the file to the repository
 4. Access to the released slides in the `Releases` section of the repository.
